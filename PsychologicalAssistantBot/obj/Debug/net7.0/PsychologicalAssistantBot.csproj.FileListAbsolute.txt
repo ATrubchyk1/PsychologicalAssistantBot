@@ -1,0 +1,62 @@
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\PsychologicalAssistantBot.exe
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\PsychologicalAssistantBot.deps.json
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\PsychologicalAssistantBot.runtimeconfig.json
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\PsychologicalAssistantBot.dll
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\PsychologicalAssistantBot.pdb
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\OpenAI.dll
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Microsoft.Extensions.Http.dll
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Telegram.Bot.dll
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\obj\Debug\net7.0\PsychologicalAssistantBot.csproj.AssemblyReference.cache
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\obj\Debug\net7.0\PsychologicalAssistantBot.GeneratedMSBuildEditorConfig.editorconfig
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\obj\Debug\net7.0\PsychologicalAssistantBot.AssemblyInfoInputs.cache
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\obj\Debug\net7.0\PsychologicalAssistantBot.AssemblyInfo.cs
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\obj\Debug\net7.0\PsychologicalAssistantBot.csproj.CoreCompileInputs.cache
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\obj\Debug\net7.0\PsychologicalAssistantBot.csproj.CopyComplete
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\obj\Debug\net7.0\PsychologicalAssistantBot.dll
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\obj\Debug\net7.0\refint\PsychologicalAssistantBot.dll
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\obj\Debug\net7.0\PsychologicalAssistantBot.pdb
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\obj\Debug\net7.0\PsychologicalAssistantBot.genruntimeconfig.cache
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\obj\Debug\net7.0\ref\PsychologicalAssistantBot.dll
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\AppSettings\app_settings.json
+E:\GameDev Projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\AppSettings\secrets.json
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\PsychologicalAssistantBot.exe
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\AppSettings\app_settings.json
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\AppSettings\secrets.json
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\PsychologicalAssistantBot.deps.json
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\PsychologicalAssistantBot.runtimeconfig.json
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\PsychologicalAssistantBot.dll
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\PsychologicalAssistantBot.pdb
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\OpenAI.dll
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Microsoft.Extensions.Http.dll
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\bin\Debug\net7.0\Telegram.Bot.dll
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\obj\Debug\net7.0\PsychologicalAssistantBot.csproj.AssemblyReference.cache
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\obj\Debug\net7.0\PsychologicalAssistantBot.GeneratedMSBuildEditorConfig.editorconfig
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\obj\Debug\net7.0\PsychologicalAssistantBot.AssemblyInfoInputs.cache
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\obj\Debug\net7.0\PsychologicalAssistantBot.AssemblyInfo.cs
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\obj\Debug\net7.0\PsychologicalAssistantBot.csproj.CoreCompileInputs.cache
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\obj\Debug\net7.0\PsychologicalAssistantBot.csproj.CopyComplete
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\obj\Debug\net7.0\PsychologicalAssistantBot.dll
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\obj\Debug\net7.0\refint\PsychologicalAssistantBot.dll
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\obj\Debug\net7.0\PsychologicalAssistantBot.pdb
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\obj\Debug\net7.0\PsychologicalAssistantBot.genruntimeconfig.cache
+E:\GameDev Projects ready-made projects\PsychologicalAssistantBot\PsychologicalAssistantBot\obj\Debug\net7.0\ref\PsychologicalAssistantBot.dll
