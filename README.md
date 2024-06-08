@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="bot123.png" width="726">
+      <img src="PsychologicalAssistantBot/photo_2024-06-08_22-21-34.jpg" width="726">
 </p>
 
 <p align="center">
@@ -13,6 +13,5 @@ Chatbot for psychological assistance, created in Telegram, based on chatGPT
 ## Documentation
 Using OpenAI API (chatGPT), TelegramBot API, C#
 
-## Screenshots
-![Скриншот 1](Assets/Resources/Images/320х565.png)
-![Скриншот 2](Assets/Resources/Images/123.png)
+## YouTube
+[[Video on YouTube]](https://www.youtube.com/shorts/lfYsg6pQCF4)
